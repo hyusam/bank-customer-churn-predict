@@ -14,7 +14,7 @@ Machine learning project untuk memprediksi kemungkinan nasabah bank melakukan ch
 
 Bank kehilangan nasabah (churn) berdampak langsung ke revenue, dan mendeteksi nasabah berisiko churn lebih awal memungkinkan tim retensi bertindak proaktif. Proyek ini membangun model klasifikasi untuk memprediksi probabilitas churn nasabah berdasarkan data demografis dan perilaku perbankan mereka.
 
-Dataset yang digunakan terdiri dari 10.000 baris data nasabah dengan 14 fitur awal.
+Dataset yang digunakan terdiri dari 10.000 baris data nasabah dengan 14 fitur.
 
 ## Business Problem
  
