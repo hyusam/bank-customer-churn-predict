@@ -1,0 +1,19 @@
+# --- DATA MANIPULATION & ANALYSIS ---
+pandas
+numpy
+scipy
+
+# --- DATA VISUALIZATION ---
+matplotlib
+seaborn
+plotly
+
+# --- JUPYTER ENVIRONMENT ---
+jupyter
+notebook
+
+# --- MACHINE LEARNING (CLASSICAL) ---
+scikit-learn
+imbalanced-learn
+xgboost
+shap
