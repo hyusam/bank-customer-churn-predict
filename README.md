@@ -6,7 +6,7 @@ Machine learning project untuk memprediksi kemungkinan nasabah bank melakukan ch
 <img src="https://img.shields.io/badge/scikit--learn-ML-orange" alt="scikit-learn">
 <img src="https://img.shields.io/badge/Streamlit-Demo-red" alt="Streamlit">
 
-**[Live Demo](https://hyusam-bank-customer-churn-predict-appapp-d50gjo.streamlit.app/)**
+**[Live Demo](https://hyusam-bank-customer-churn-predict-appapp-2lefp7.streamlit.app/)**
 
 ---
 
