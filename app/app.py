@@ -4,13 +4,15 @@ import numpy as np
 import joblib
 import shap
 import matplotlib.pyplot as plt
+from pathlib import Path
 
 # ============================================================
 # CONFIG
 # ============================================================
 st.set_page_config(page_title="Bank Churn Predictor", page_icon="", layout="wide")
 
-MODEL_PATH = "../models/final_pipeline_rftuned.pkl"
+BASE_DIR = Path(__file__).resolve().parent
+MODEL_PATH = BASE_DIR.parent / "models" / "final_pipeline_rftuned.pkl"
 REQUIRED_COLS = [
     "CreditScore", "Geography", "Gender", "Age", "Tenure",
     "Balance", "NumOfProducts", "HasCrCard", "IsActiveMember", "EstimatedSalary"
